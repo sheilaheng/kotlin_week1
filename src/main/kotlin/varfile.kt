@@ -12,6 +12,7 @@ fun main(args: Array<String>) {
     var ans = num3 / num4
     println(ans)
 
+
     var num5 = 50
     var num6 = 40
 
