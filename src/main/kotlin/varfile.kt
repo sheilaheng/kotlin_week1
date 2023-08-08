@@ -19,6 +19,11 @@ fun main(args: Array<String>) {
     println(answer)
 
 
+    var num7 = 50
+    var num8 = 40
+
+    var answs = num5 * num6
+    println(answs)
 
 
 
