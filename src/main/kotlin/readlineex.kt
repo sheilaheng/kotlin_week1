@@ -6,7 +6,8 @@ fun main(args: Array<String>) {
     if (myage >= 18) {
         print("Welcome to the club")
 
-    }else{
+    }
+    else{
         print("Sorry cannot admit an underage ")
     }
 }
