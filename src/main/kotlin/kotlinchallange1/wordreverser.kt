@@ -7,6 +7,6 @@ fun main(args: Array<String>) {
 
     var wordsplit = word.split("")
     var wordreverse = wordsplit.reversed()
-    println(wordreverse.joinToString ( " " )
+    println(wordreverse.joinToString ( " " ))
     }
 
